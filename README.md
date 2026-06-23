@@ -33,7 +33,10 @@ This project is an interactive executive dashboard built in **Power BI** for Adv
 - 'Insights_Report.pdf': A detailed report on the analysis and recommendations.
 
 ## Connect with Me
-[Your Linked URl] | [X URL]
+www.linkedin.com/in/faithaipoh 
+
+## Video Walkthrough
+https://www.loom.com/share/de9a4042f63a46d486d206d7c3d32b3d
 
 ## Video Walkthrough
 [video link]
