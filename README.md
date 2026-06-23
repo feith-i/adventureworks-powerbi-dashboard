@@ -38,5 +38,3 @@ www.linkedin.com/in/faithaipoh
 ## Video Walkthrough
 https://www.loom.com/share/de9a4042f63a46d486d206d7c3d32b3d
 
-## Video Walkthrough
-[video link]
